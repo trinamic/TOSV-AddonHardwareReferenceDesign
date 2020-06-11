@@ -1,0 +1,15 @@
+Date:					2020-05-26
+Name:					TMCM-0021 v1.0
+Layers:					4
+PCB Width:				34 mm
+PCB Height:				56 mm
+PCB Thickness:			1,6 mm
+
+Outer Layer Copper:		35µm (end)
+Inner Layer Copper:		35µm
+
+Silk Screen Top:		required (black)
+Silk Screen Bottom:		required (black)
+Solder Mask Top:		white
+Solder Mask Bottom:		white
+UL logo:				required (not for protos / pool services)
